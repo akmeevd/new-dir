@@ -15,4 +15,14 @@ Basic commands:
 
 - git commit -m "some commit" (saving of changes, -m - after this flag may write message for commit) 
 
+Git states:
+
+1. untracked (file is not tracked for changes)
+
+2. staged (file is added in staging area by command ```git add```)
+
+3. modified (file is modified and not added to staging area)
+
+4. tracked (file is tracked for changes)
+
 ###[reference](https://github.com/akmeevd "my github profile")
